@@ -1,0 +1,1 @@
+Este es el readme de la tarea de Kmeans de Boris Mejías
